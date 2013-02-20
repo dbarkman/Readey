@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Readey</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="css/main.css" />
+    <style type="text/css">.error{ background-color: #ffaaaa; } </style>
+    <script src="js/vendor/jquery-1.8.3.min.js"></script>
+    <script src="js/vendor/usergrid.js" type="text/javascript"></script>
+    <script src="js/vendor/extensions/usergrid.validation.js" type="text/javascript"></script>
+    <script src="js/main.js"></script>
+</head>
+<body>
+
+<div id="placeHolderPage" class="outerContainer">
+    <div id="placeHolderDiv">
+        <h1>Readey</h1>
+    </div>
+</div>
+
+<div id="loginPage" class="outerContainer hidden">
+    <div>
+        <h1>Readey</h1>
+    </div>
+    <div>
+        <h4>Log in using your Readey account.</h4>
+        Don't have an account? Email invite@readey.com for an invitation.
+        <br /><br />
+        <span id="loginSectionError"></span>
+        <form name="loginForm" id="formLogin">
+            <label for="username">Username:</label>
+            <br />
+            <input type="text" name="username" id="username" />
+            <br />
+            <label for="password">Password:</label>
+            <br />
+            <input type="password" name="password" id="password" />
+        </form>
+        <div>
+            <button type="button" id="loginButton">Login</button>
+        </div>
+    </div>
+</div>
+
+<div id="accountPage" class="outerContainer hidden">
+    <div class="headerContainer">
+        <div class="buttons">
+            <div class="logout">
+                <button type="button" class="logoutButton">Logout</button>
+            </div>
+            <div class="articles">
+                <button type="button" id="articlesButton">Articles</button>
+            </div>
+        </div>
+        <div class="title">
+            <h1>Readey</h1>
+        </div>
+    </div>
+    <div>
+        <div id="accountUpdate">
+            <h2>Account Update</h2>
+            <div id="accountMessage"></div>
+            <form name="accountUpdateForm" id="accountUpdateForm">
+                <label for="email">New Email:</label>
+                <br />
+                <input type="text" name="email" id="email" size="60" />
+                <br />
+                <label for="oldPassword">Old Password:</label>
+                <br />
+                <input type="password" name="oldPassword" id="oldPassword" size="60" />
+                <br />
+                <label for="newPassword">New Password:</label>
+                <br />
+                <input type="password" name="newPassword" id="newPassword" size="60" />
+            </form>
+            <button type="button" id="accountUpdateButton">Update Account</button>
+        </div>
+    </div>
+</div>
+
+<div id="articleListPage" class="outerContainer hidden">
+    <div class="headerContainer">
+        <div class="buttons">
+            <div class="logout">
+                <button type="button" class="logoutButton">Logout</button>
+            </div>
+            <div class="account">
+                <button type="button" id="accountButton">Account</button>
+            </div>
+        </div>
+        <div class="title">
+            <h1>Readey</h1>
+        </div>
+    </div>
+    <div>
+        <div id="articleCreate">
+            <h2>New Article</h2>
+            <div id="articleMessage"></div>
+            <form name="articleCreateForm" id="articleCreateForm">
+                <label for="articleName">Name:</label>
+                <br />
+                <input type="text" name="articleName" id="articleName" size="60" />
+                <br />
+                <label for="articleSource">Source:</label>
+                <br />
+                <input type="text" name="articleSource" id="articleSource" size="60" />
+                <br />
+                <label for="articleContent">Content:</label>
+                <br />
+                <textarea name="articleContent" id="articleContent" rows="10" cols="50"></textarea>
+            </form>
+            <button type="button" id="articleCreateButton">Create Article</button>
+        </div>
+        <div id="articlesList">
+            <h2>Saved Articles</h2>
+            <div>
+               <ul id="myArticleList">No articles yet.</ul>
+            </div>
+            <button type="button" id="previousButton" class="hidden">Previous</button>
+            <button type="button" id="nextButton" class="hidden">Next</button>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

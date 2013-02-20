@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Readey Support</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="../css/main.css" />
+    <style type="text/css">.error{ background-color: #ffaaaa; } </style>
+    <script src="../js/vendor/jquery-1.8.3.min.js"></script>
+    <script src="../js/vendor/usergrid.js" type="text/javascript"></script>
+    <script src="../js/vendor/extensions/usergrid.validation.js" type="text/javascript"></script>
+    <script src="../js/main.js"></script>
+</head>
+<body>
+
+<div id="articleListPage" class="outerContainer hidden">
+    <div>
+        <h1>Readey</h1>
+    </div>
+    <div>
+        <h2>Readey Support</h2>
+    </div>
+    <div>
+        <div id="ticketCreate">
+            <h3>New Support Ticket</h3>
+            <div id="ticketMessage"></div>
+            <form name="ticketCreateForm" id="ticketCreateForm">
+                <label for="ticketName">Name:</label>
+                <br />
+                <input type="text" name="ticketName" id="ticketName" size="60" />
+                <br />
+                <label for="ticketEmail">Email:</label>
+                <br />
+                <input type="text" name="ticketEmail" id="ticketEmail" size="60" />
+                <br />
+                <label for="ticketComment">Comment:</label>
+                <br />
+                <textarea name="ticketComment" id="ticketComment" rows="10" cols="50"></textarea>
+            </form>
+            <button type="button" id="ticketCreateButton">Create Ticket</button>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
