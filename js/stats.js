@@ -324,7 +324,7 @@ $(document).ready(function() {
 					name:timestamp + "." + timestampMilli,
 					usersName:name,
 					email:email,
-					comment:comment
+					commnet:comment
 				}
 
 				//just pass the options to the addEntity method
