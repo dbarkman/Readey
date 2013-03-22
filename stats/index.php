@@ -18,7 +18,10 @@
     <div id="totalWordsRead">
 		<?php
 			require_once dirname(__FILE__) . '/../../ReadeyFramework/includes/includes.php';
-			$readLog = new ReadLog;
+			$container = new Container();
+			$logger = $container->getLogger();
+			$mySqlConnect = $container->getMySqlConnect();
+			$readLog = new ReadLog($logger, $mySqlConnect->db);
 			$totalWordsRead = $readLog->getTotalWordsRead();
 			echo 'Total Words Read: ' . $totalWordsRead;
 		?>
