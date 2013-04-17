@@ -2,15 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f86a3039-afac-46e9-90c3-4a00aa071201" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/logoff.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stats/index.php" afterPath="$PROJECT_DIR$/stats/index.php" />
     </list>
     <ignored path="Readey.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365704866317" ignored="false" />
+    <file path="/index.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365721635992" ignored="false" />
+    <file path="/.htaccess" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365108510809" ignored="false" />
+    <file path="$PROJECT_DIR$/../Checkbook/home.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1364403843391" ignored="false" />
+    <file path="/home.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1364403843391" ignored="false" />
+    <file path="$PROJECT_DIR$/../Checkbook/process.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1364404289026" ignored="false" />
+    <file path="/process.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1364404183352" ignored="false" />
+    <file path="/RSSFeed.model.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365031156959" ignored="false" />
+    <file path="$PROJECT_DIR$/../ReadeyFramework/models/RSSFeed.model.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365031165486" ignored="false" />
+    <file path="$PROJECT_DIR$/../ReadeyFramework/models/RSSItem.model.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365110724220" ignored="false" />
+    <file path="/RSSItem.model.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365110701680" ignored="false" />
+    <file path="/a.dummy" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365116431851" ignored="false" />
+    <file path="$PROJECT_DIR$/../ReadeyFramework/processRSSItems.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365111773952" ignored="false" />
+    <file path="/processRSSItems.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365111745721" ignored="false" />
+    <file path="$PROJECT_DIR$/../dbFramework/controllers/MobileAPIValidation.class.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365112801068" ignored="false" />
+    <file path="$PROJECT_DIR$/../dbFramework/controllers/APIValidation.class.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365113293701" ignored="false" />
+    <file path="$PROJECT_DIR$/../dbFramework/controllers/Validation.class.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365719612324" ignored="false" />
+    <file path="/APIValidation.class.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365113882180" ignored="false" />
+    <file path="$PROJECT_DIR$/../dbFramework/controllers/FrameworkValidation.class.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365720349200" ignored="false" />
+    <file path="$PROJECT_DIR$/../dbFramework/controllers/Dropdowns.class.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365719506835" ignored="false" />
+    <file path="/Validation.class.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365719602573" ignored="false" />
+    <file path="$PROJECT_DIR$/../ReadeyFramework/controllers/ReadeyFrameworkValidation.class.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365115756382" ignored="false" />
+    <file path="/ReadeyFrameworkValidation.class.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365115651285" ignored="false" />
+    <file path="$PROJECT_DIR$/../ReadeyFramework/controllers/ReadeyFrameworkValidation.controller.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365720385875" ignored="false" />
+    <file path="$PROJECT_DIR$/../ReadeyFramework/controllers/Container.controller.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365117124676" ignored="false" />
+    <file path="/Container.controller.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365117123709" ignored="false" />
+    <file path="/ReadeyFrameworkValidation.controller.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365720383455" ignored="false" />
+    <file path="/readey.properties" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365117593560" ignored="false" />
+    <file path="$PROJECT_DIR$/../ReadeyFramework/config/readey.properties" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365117593560" ignored="false" />
+    <file path="$PROJECT_DIR$/../dbFramework/controllers/LogRequest.class.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365717358584" ignored="false" />
+    <file path="/LogRequest.class.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365717358055" ignored="false" />
+    <file path="/Dropdowns.class.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365719426693" ignored="false" />
+    <file path="/FrameworkValidation.class.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365720217642" ignored="false" />
+    <file path="$PROJECT_DIR$/../ReadeyAPI/index.php" changelist="f86a3039-afac-46e9-90c3-4a00aa071201" time="1365721675614" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,12 +57,24 @@
     <disable_hints />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Readey" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stats/index.php">
+      <file leaf-file-name=".htaccess" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/.htaccess">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="45" selection-start="659" selection-end="659" vertical-scroll-proportion="0.7123894">
+            <state line="4" column="30" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="29" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0778996">
               <folding />
             </state>
           </provider>
@@ -46,6 +90,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -57,14 +106,17 @@
         <option value="$PROJECT_DIR$/admin/includes/Functions.class.php" />
         <option value="$PROJECT_DIR$/admin/index.php" />
         <option value="$PROJECT_DIR$/stats/index.php" />
+        <option value="$PROJECT_DIR$/api/.htaccess" />
+        <option value="$PROJECT_DIR$/api/index.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
-    <option name="width" value="1440" />
-    <option name="height" value="845" />
+    <option name="x" value="-1080" />
+    <option name="y" value="-617" />
+    <option name="width" value="1080" />
+    <option name="height" value="1920" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -92,7 +144,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -183,15 +234,17 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="options.lastSelected" value="project.propVCSSupport.VCSs.Git" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ReadeyFramework" />
-    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../StormSource/PHP/AP" />
+    <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig" serverName="web1-Readey" serverId="3583b9eb-70c5-4f30-88bd-27c340b1b0f6" autoUpload="true">
     <servers>
@@ -284,11 +337,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/admin/classes" />
       <recent name="$PROJECT_DIR$/admin/config" />
       <recent name="$PROJECT_DIR$/admin/includes" />
       <recent name="$PROJECT_DIR$/admin" />
-      <recent name="$PROJECT_DIR$/js/vendor" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/admin/classes" />
@@ -303,7 +356,7 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote">
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
       <JSRemoteDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
         <option name="fileUrl" />
@@ -345,16 +398,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="845" extended-state="6" />
+    <frame x="-1080" y="-617" width="1080" height="1920" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.328877" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32666665" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27259684" sideWeight="0.67112297" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39651838" sideWeight="0.9309589" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -363,7 +416,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328877" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -402,6 +455,13 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
@@ -415,46 +475,29 @@
     <option name="ACTIVE_VCS_NAME" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/support/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="16" selection-start="571" selection-end="571" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="326" column="26" selection-start="9202" selection-end="9202" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="66" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="25" column="66" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="45" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="6" column="45" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stats/index.php">
@@ -469,9 +512,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/stats.js">
@@ -486,42 +527,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/support/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="16" selection-start="571" selection-end="571" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="14" column="16" selection-start="571" selection-end="571" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="326" column="26" selection-start="9202" selection-end="9202" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="326" column="26" selection-start="9202" selection-end="9202" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="66" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="25" column="66" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="45" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="6" column="45" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stats/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="45" selection-start="659" selection-end="659" vertical-scroll-proportion="0.7123894">
+        <state line="23" column="45" selection-start="659" selection-end="659" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="30" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="29" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0778996">
           <folding />
         </state>
       </provider>
